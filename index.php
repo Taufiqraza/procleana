@@ -19,10 +19,10 @@
             <div class="vert-wrap container">
               <div class="vert">
                 <div class="container">
-                  <h2 data-animation="zoomIn" data-animation-delay="1s">So Fresh & So Clean...
+                  <h2 data-animation="zoomIn" data-animation-delay="1s">We Bring the Right People 
                   </h2>
-                  <h3 data-animation="zoomIn" data-animation-delay="2s">We Promise!</h3>
-                  <a href="order-form.html" class="btn" data-animation="fadeInUp" data-animation-delay="2s">Free
+                  <h3 data-animation="zoomIn" data-animation-delay="2s">to Your Business!</h3>
+                  <a href="#" class="btn" data-animation="fadeInUp" data-animation-delay="2s">Free
                     Estimate</a>
                 </div>
               </div>
@@ -35,10 +35,10 @@
             <div class="vert-wrap container">
               <div class="vert">
                 <div class="container">
-                  <h2 data-animation="zoomIn" data-animation-delay="1s">So Fresh & So Clean...
+                <h2 data-animation="zoomIn" data-animation-delay="1s">Empowering Your Workforce, 
                   </h2>
-                  <h3 data-animation="zoomIn" data-animation-delay="2s">We Promise!</h3>
-                  <a href="order-form.html" class="btn" data-animation="fadeInUp" data-animation-delay="2s">Free
+                  <h3 data-animation="zoomIn" data-animation-delay="2s">Enabling Your Success!</h3>
+                  <a href="#" class="btn" data-animation="fadeInUp" data-animation-delay="2s">Free
                     Estimate</a>
                 </div>
               </div>
@@ -51,10 +51,10 @@
             <div class="vert-wrap container">
               <div class="vert">
                 <div class="container">
-                  <h2 data-animation="zoomIn" data-animation-delay="1s">So Fresh & So Clean...
+                <h2 data-animation="zoomIn" data-animation-delay="1s">Your Trusted Partner
                   </h2>
-                  <h3 data-animation="zoomIn" data-animation-delay="2s">We Promise!</h3>
-                  <a href="order-form.html" class="btn" data-animation="fadeInUp" data-animation-delay="2s">Free
+                  <h3 data-animation="zoomIn" data-animation-delay="2s">in Workforce Solutions!</h3>
+                  <a href="#" class="btn" data-animation="fadeInUp" data-animation-delay="2s">Free
                     Estimate</a>
                 </div>
               </div>
@@ -68,61 +68,60 @@
   <!-- Services block -->
   <div class="block">
     <div class="container">
-      <h2 class="text-center h-lg h-decor">Our Cleaning Services</h2>
+      <h2 class="text-center h-lg h-decor">A Man Power Supply Agency</h2>
       <div class="text-center max-750">
-        <p class="p-lg">Let us use our years of experience, skilled employees, and advanced procedures to
-          ensure a clean and healthy environment for your employees, customers and guests.</p>
+        <p class="p-lg">A Manpower Services, with 15+ years of experience, provides reliable staffing solutions, including housekeepers, maids, security personnel, office boys, and tele-callers. We prioritize personalized service, client satisfaction, and competitive rates to meet diverse manpower needs efficiently.</p>
       </div>
       <div class="row services-carousel arrows-center">
         <div class="col-sm-2 col-lg-4">
           <div class="service-card">
             <div class="service-card-icon"><i class="icon icon-house"></i></div>
-            <h5 class="service-card-title">Apartment Cleaning</h5>
+            <h5 class="service-card-title">Security</h5>
             <ul class="service-card-list">
               <li>Vacuum / mop floors</li>
               <li>Dust all furniture</li>
               <li>Clean the toilet</li>
             </ul>
-            <a href="service-page-1.html" class="service-card-more"><i class="icon-play"></i>Read
+            <a href="#" class="service-card-more"><i class="icon-play"></i>Read
               more</a>
           </div>
         </div>
         <div class="col-sm-2 col-lg-4">
           <div class="service-card">
             <div class="service-card-icon"><i class="icon icon-house-1"></i></div>
-            <h5 class="service-card-title">Commercial Cleaning</h5>
+            <h5 class="service-card-title">Telecaller</h5>
             <ul class="service-card-list">
               <li>Hard surface floor cleaning</li>
               <li>Tile and grout cleaning</li>
               <li>Carpet Cleaning</li>
             </ul>
-            <a href="service-page-1.html" class="service-card-more"><i class="icon-play"></i>Read
+            <a href="#" class="service-card-more"><i class="icon-play"></i>Read
               more</a>
           </div>
         </div>
         <div class="col-sm-2 col-lg-4">
           <div class="service-card">
             <div class="service-card-icon"><i class="icon icon-house-3"></i></div>
-            <h5 class="service-card-title">Residential Cleaning</h5>
+            <h5 class="service-card-title">Housekeeping</h5>
             <ul class="service-card-list">
               <li>Hard Surface Cleaning</li>
               <li>Upholstery Cleaning</li>
               <li>Carpet Cleaning</li>
             </ul>
-            <a href="service-page-1.html" class="service-card-more"><i class="icon-play"></i>Read
+            <a href="#" class="service-card-more"><i class="icon-play"></i>Read
               more</a>
           </div>
         </div>
         <div class="col-sm-2 col-lg-4">
           <div class="service-card">
             <div class="service-card-icon"><i class="icon icon-window"></i></div>
-            <h5 class="service-card-title">Window Cleaning</h5>
+            <h5 class="service-card-title">Permanent Maid</h5>
             <ul class="service-card-list">
               <li>Hard surface floor cleaning</li>
               <li>Dust all furniture</li>
               <li>Carpet Cleaning</li>
             </ul>
-            <a href="service-page-1.html" class="service-card-more"><i class="icon-play"></i>Read
+            <a href="#" class="service-card-more"><i class="icon-play"></i>Read
               more</a>
           </div>
         </div>
@@ -143,27 +142,22 @@
           </ul>
           <div class="tab-content tab-content-nopad">
             <div id="about1" class="tab-pane fade in active">
-              <p>Cleaning can be a chore and we know you have many choices when you consider hiring a
-                maid service. Because of that, we are constantly thriving to improve our already
-                high standards to have you see us as the absolute best
-                in the industry. It’s not enough to have trust in the cleaning crew that you let
-                into your home… you also have to trust that they will perform a first-class cleaning
-                job for you. </p>
+              <p>A Manpower Services, with 15+ years of experience, provides reliable staffing solutions, including housekeepers, maids, security personnel, office boys, and tele-callers. We prioritize personalized service, client satisfaction, and competitive rates to meet diverse manpower needs efficiently. </p>
               <div class="divider-sm"></div>
               <h4>We Provide</h4>
               <div class="row">
                 <div class="col-lg-6">
                   <ul class="marker-list">
-                    <li>One-off, weekly or fortnightly visits</li>
-                    <li>Vetted & background-checked cleaners</li>
-                    <li>Online booking and payment</li>
+                    <li>Flexible staffing options for one-off, weekly, or monthly requirements based on your needs</li>
+                    <li>All personnel undergo thorough background checks to ensure trustworthiness</li>
+                    <li>Easy online booking and secure payment options for hassle-free service</li>
                   </ul>
                 </div>
                 <div class="col-lg-6">
                   <ul class="marker-list">
-                    <li>Keep the same cleaner for every visit</li>
-                    <li>All cleaning materials and equipment</li>
-                    <li>100% satisfaction guarantee</li>
+                    <li>We provide consistent staff allocation for your recurring requirements</li>
+                    <li>All necessary tools and materials are supplied to ensure smooth operations</li>
+                    <li>We guarantee quality service with a commitment to 100% customer satisfaction</li>
                   </ul>
                 </div>
               </div>
@@ -171,19 +165,15 @@
             <div id="about2" class="tab-pane fade">
               <div class="row">
                 <div class="col-lg-6">
-                  <h4>How Cleaning Company Works</h4>
-                  <p>When the weekend finally arrives, you’d much rather put your feet up while a
-                    cleaning service does the work, rather than spend your precious downtime on
-                    your hands and knees scrubbing.</p>
-                  <p class="visible-lg">Taking the stress out of any aspect of cleaning is what we
-                    specialise in. We will come to your premises and offer a free quote, so you
-                    know exactly what you’ll be spending</p>
+                  <h4>How Manpower Provider Company Works</h4>
+                  <p>A manpower company connects businesses with skilled job seekers by understanding client needs, recruiting and screening candidates, and matching them to suitable roles. It provides both temporary and permanent staffing solutions, offers training to enhance skills, and manages compliance tasks like payroll and contracts. </p>
+                  <p class="visible-lg">Additionally, it ensures ongoing support, enabling businesses to focus on growth while maintaining reliable staffing</p>
                 </div>
                 <div class="col-lg-6">
                   <h6>Book online in<span class="color"> 60 seconds</span></h6>
                   <p>Book & pay online. We'll match you with a trusted, experienced house cleaner
                   </p>
-                  <h6>Get a <span class="color">5 star cleaner</span></h6>
+                  <h6>Get a <span class="color">professional worker</span></h6>
                   <p>Every cleaner is friendly and reliable. They've been background-checked &
                     rated 5-stars</p>
                   <h6>Manage everything <span class="color">online</span></h6>
@@ -246,8 +236,7 @@
         <div class="divider-xl visible-xs"></div>
         <div class="col-sm-7 col-md-7 col-lg-6">
           <h2>Reasons to Choose Us</h2>
-          <p class="p-lg">Behind our commitment to excellence are few key attributes that define who we
-            are and what makes us different from any other.
+          <p class="p-lg">A manpower agency provides skilled, pre-screened workers, saving time and effort in recruitment. It ensures flexible, reliable, and cost-effective staffing solutions while managing compliance and administrative tasks, allowing businesses to focus on growth.
           </p>
           <div class="marker-box">
             <div class="marker-box-marker"><i class="icon-leaf"></i></div>
@@ -275,7 +264,7 @@
   <!-- Testimonials Single Block -->
   <div class="block fullwidth-bg bg-cover block-testimonials-bg inset-lg-1" data-bg="assets/images/block-bg-3.jpg">
     <div class="container">
-      <h2 class="text-center h-lg">Happy Customers,<br class="clearfix visible-xs"> Happy Homes</h2>
+      <h2 class="text-center h-lg">Happy Customers</h2>
       <div class="testimonials-carousel">
         <div class="testimonial-item">
           <div class="testimonial-item-inside">
@@ -310,7 +299,7 @@
   <!-- News block -->
   <div class="block">
     <div class="container">
-      <h2 class="text-center h-lg h-decor">Cleaning Industry News</h2>
+      <h2 class="text-center h-lg h-decor">Industry News</h2>
       <div class="text-center max-700">
         <p class="p-lg">We write about industry developments, training, health and safety, eco-friendly
           cleaning products, recycling practices and advice for working with professional cleaners.</p>
